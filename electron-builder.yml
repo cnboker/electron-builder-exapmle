@@ -1,0 +1,4 @@
+appId: kwPolish
+publish:
+    provider: github
+    token: b2de6fcb3756377f9944ce27b3cae23e443d849e

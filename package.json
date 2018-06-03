@@ -1,0 +1,23 @@
+{
+  "name": "electron-builder-exapmle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "build --win",
+    "ship": "build --win -p always"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron-builder": "^20.15.1"
+  },
+  "dependencies": {
+    "electron-updater": "^2.21.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/electron-userland/electron-builder.git"
+  }
+}
